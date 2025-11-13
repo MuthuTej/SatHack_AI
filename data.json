@@ -1,0 +1,13 @@
+{
+    "sensor_data": {
+      "mock_1": {
+        "distance": 3.5,
+        "timestamp": 1731509582000
+      },
+      "mock_2": {
+        "distance": 7.8,
+        "timestamp": 1731509600000
+      }
+    }
+  }
+  
