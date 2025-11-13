@@ -5,7 +5,6 @@ __pycache__/
 *.pyd
 venv/
 
-serviceAccountKey.json
 
 
 # OS files
